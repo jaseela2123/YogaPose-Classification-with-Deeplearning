@@ -1,4 +1,4 @@
-# YogaPose-Classification-with-Deeplearning
+# YogaPose-Estimation-with-Deeplearning
 
 Web application developed for classifying ten yoga
 poses by using pose estimation and keypoint
